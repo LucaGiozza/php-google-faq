@@ -53,3 +53,45 @@ header{
 /* fine header */
 
 /* inizio main */
+main{
+    height: 1200px;
+}
+
+/* fine main */
+
+
+
+
+/* inizio footer */
+footer{
+    
+    
+}
+.footer-list{
+    display:flex;
+    
+    
+}
+.footer-list li{
+    margin-left:80px;
+    
+    list-style: none;
+    color:gray;
+    font-size: 14px;
+    margin-bottom: 30px;;
+    
+}
+.choose{
+    float:right;
+   margin-top:-45px;
+    
+    margin-right: 400px;
+
+}
+#scelta{
+    width:150px;
+    margin-b
+}
+
+
+/* fine footer */

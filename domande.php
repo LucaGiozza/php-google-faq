@@ -38,6 +38,23 @@ di queste domande e risposte con PHP. -->
 
 <!-- inizio footer -->
 <footer>
+    <ul class="footer-list">
+        <li>Google</li>
+        <li>Tutto su google</li>
+        <li>Privacy</li>
+        <li>Termini</li>
+    </ul>
+
+    <span class="choose">
+
+    
+  <select  name="cars" id="scelta">
+    <option value="volvo">Italiano</option>
+    <option value="saab">Francese</option>
+    <option value="opel">Tedesco</option>
+    <option value="audi">Inglese</option>
+  </select>
+    </span>
 
 </footer>
     
