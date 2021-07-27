@@ -1,0 +1,55 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* inizio header */
+
+header{
+    height: 100px;
+    background-color:white;
+    border-bottom: 1px solid gray;
+    position: fixed;
+    width:100%;
+    
+    
+    
+    
+    
+
+
+}
+.google{
+    height:70px;
+    vertical-align: middle;
+    margin:0;
+}
+
+.privacy{
+    font-size: 20px;
+    color:gray;
+    vertical-align: middle;
+}
+
+.lista{
+    display:flex;
+}
+.lista li{
+    list-style: none;
+    margin-left:40px;
+   
+}
+.nav{
+    color:gray;
+}
+.dom{
+    color:rgb(10, 101, 238);
+    border-bottom:3px solid rgb(10, 101, 238) ;
+    padding-bottom:9px;
+}
+
+/* fine header */
+
+/* inizio main */
